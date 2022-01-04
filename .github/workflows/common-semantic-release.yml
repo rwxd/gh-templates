@@ -1,4 +1,10 @@
 ---
+on:
+  workflow_call:
+    secrets:
+      token:
+        required: true
+
 steps:
   - name: Checkout
     uses: actions/checkout@v2
