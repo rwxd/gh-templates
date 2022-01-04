@@ -4,7 +4,7 @@
 _extends: gh-templates:.github/common-settings.yml
 
 repository:
-  name: "GitHub Templates"
+  name: "gh-templates"
   description: "GitHub Templates for Repositories."
   homepage: "https://rwxd.github.io/gh-templates/"
   topics: "github, templating"
