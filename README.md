@@ -1,1 +1,1 @@
-# gh-templates
+# GitHub Templates

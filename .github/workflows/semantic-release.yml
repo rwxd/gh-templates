@@ -1,0 +1,6 @@
+---
+jobs:
+  semantic-release:
+    uses: rwxd/gh-templates/.github/workflows/common-semantic-release.yaml@main
+    secrets:
+      token: ${{ secrets.GITHUB_TOKEN }}
